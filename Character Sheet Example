@@ -1,0 +1,54 @@
+// Character sheet for a D&D character
+
+// Character information
+let name = "Bob";
+let class = "Fighter";
+let level = 1;
+
+// Ability scores
+let strength = 16;
+let dexterity = 14;
+let constitution = 14;
+let intelligence = 10;
+let wisdom = 12;
+let charisma = 8;
+
+// Skills
+let athletics = 3;
+let acrobatics = 2;
+let stealth = 2;
+
+// Equipment
+let armor = "Chain mail";
+let weapon = "Longsword";
+
+// Calculate attack bonus
+function attackBonus() {
+  return Math.floor((strength - 10) / 2) + level;
+}
+
+// Calculate hit points
+function hitPoints() {
+  return 10 + Math.floor((constitution - 10) / 2);
+}
+
+// Output character sheet
+console.log(`Name: ${name}`);
+console.log(`Class: ${class}`);
+console.log(`Level: ${level}`);
+console.log(`Ability Scores:`);
+console.log(`  Strength: ${strength}`);
+console.log(`  Dexterity: ${dexterity}`);
+console.log(`  Constitution: ${constitution}`);
+console.log(`  Intelligence: ${intelligence}`);
+console.log(`  Wisdom: ${wisdom}`);
+console.log(`  Charisma: ${charisma}`);
+console.log(`Skills:`);
+console.log(`  Athletics: ${athletics}`);
+console.log(`  Acrobatics: ${acrobatics}`);
+console.log(`  Stealth: ${stealth}`);
+console.log(`Equipment:`);
+console.log(`  Armor: ${armor}`);
+console.log(`  Weapon: ${weapon}`);
+console.log(`Attack Bonus: ${attackBonus()}`);
+console.log(`Hit Points: ${hitPoints()}`);
