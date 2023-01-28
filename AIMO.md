@@ -1,6 +1,6 @@
 Objective: 
 ===========
-Create a Kickstarter for a modern immersive adventure game unlike any other. Utilizing blockchain, distributed computation, and AI. AI would be the Game Master for every player individually as well as per group. Trying to raise $150,000 
+Create a Kickstarter for a modern immersive adventure game unlike any other. Utilizing blockchain, distributed computation, and AI. AI would be the Game Master for every player individually as well as per group. Trying to raise $144,000 
 
  
 
