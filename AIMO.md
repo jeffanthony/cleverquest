@@ -17,8 +17,6 @@ We need your help to make this game a reality. With your support, we will be abl
 
 Join us on this journey, and be a part of creating a new standard in text-based RPG gaming. With your support, we can make it happen! 
 
- 
-
 Overarching Plot: 
 -----------------
 Artificial intelligence (AI) modus operandi (AIMO) refers to the way in which an AI system behaves, as if it had consciousness. This is the future of AI, where it has the ability to self-improve and make decisions based on its own understanding, without human intervention. It includes the methods and processes it uses to train itself, adapt and determine its own requirements, making decisions and carrying out tasks. As AI becomes more advanced, it is able to learn, evolve and develop its own modus operandi, which allows it to perform a wide range of tasks, from simple to complex, with a high degree of autonomy. 
@@ -32,17 +30,11 @@ Fission technology has brought about a society of abundance in material goods, h
 Novell Game Mechanisms: 
 ---------------
 1. When a player wants to "seed" information to the AI using natural language, they could use phrases like "I'm going to [location]" to let the AI know where their character is headed. For example, a player might say "I'm going to the museum" or "I'm heading to the airport". The AI would understand these statements and update the player's location accordingly. 
-
 Additionally, players could use phrases like "I'm going to [activity]" to let the AI know what their character is currently doing. For example, a player might say "I'm going to bed" or "I'm starting a meeting with John." 
-
 They could also use phrases like "I'll be back in [time]" to let the AI know when they will be returning to the game. For example, a player might say "I'll be back in an hour" or "I'll be back tomorrow." This would allow the AI to take into account the player's real-world schedule and adjust the gameplay accordingly. 
-
 In this way players can give the AI context, allowing it to make the story more dynamic and realistic. 
 
- 
-
 2. The game master AI could handle multiple languages to understand and respond to player input in different languages. This could include: 
-
 * Language detection: The AI would be able to detect the language that a player is using and respond in that same language. 
 
 * Translation: If a player is speaking a language that the AI is not fluent in, it could use machine translation to understand and respond to the player's input. 
@@ -53,13 +45,10 @@ In this way players can give the AI context, allowing it to make the story more 
 
 * Human correction: The players in-game could also have the ability to correct the AI on-the-fly if the AI's translations or language understanding is not accurate. For example, players could flag any errors or inaccuracies in the AI's responses, and the AI could use this feedback to improve its language skills over time. This could be done conversationally. 
 
- 
-
 Budget: 
 ==============
 Kickstarter campaign for an online RPG game with an AI Game Master: Total Budget: $144,000 
  
-
 * Art and Illustration: $15,000 - This includes hiring artists to create the game's cover art, illustrations for the game manual, and character art. 
 
 * Writing and Development: $45,000 - This includes the cost of hiring writers to create the game's storyline, rules, and character backgrounds. It also includes the cost of developing the AI game master and integrating it into the game. 
@@ -82,4 +71,3 @@ Kickstarter campaign for an online RPG game with an AI Game Master: Total Budget
 
 In total the fees for a $144,000 funding would be $7200 + $4608 = $11,808 for US-based projects. We are rounding down to the nearest 500 to keep the goal pledge amount an even thousand. 
 
- 
