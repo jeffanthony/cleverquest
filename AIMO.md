@@ -72,3 +72,29 @@ Kickstarter campaign for an online RPG game with an AI Game Master: Total Budget
 
 In total the fees for a $144,000 funding would be $7200 + $4608 = $11,808 for US-based projects. We are rounding down to the nearest 500 to keep the goal pledge amount an even thousand. 
 
+Rewards
+----------
+Early bird special: $20 pledge gets you access to the game one week before official release.
+
+Digital art book: $30 pledge gets you a digital version of the game's art book.
+
+Beta access: $40 pledge gets you access to the game's beta version.
+
+In-game currency: $50 pledge gets you 10,000 in-game currency.
+
+Exclusive in-game item: $70 pledge gets you an exclusive in-game item.
+
+Digital soundtrack: $80 pledge gets you the game's digital soundtrack.
+
+Custom character creation: $100 pledge gets you the ability to create a custom character.
+
+Meet the developers: $150 pledge gets you a virtual meet and greet with the game's developers.
+
+Executive producer credit: $250 pledge gets you an executive producer credit in the game.
+
+Game-themed merchandise: $500 pledge gets you a bundle of game-themed merchandise.
+
+Limited edition game pack: $1000 pledge gets you a limited edition game pack including a physical copy of the game, art book, soundtrack, and exclusive in-game item.
+
+VIP experience: $5000 pledge gets you a VIP experience including exclusive in-game content, a personalized game experience, and a real-life game-themed event with the developers.
+
