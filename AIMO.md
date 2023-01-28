@@ -13,9 +13,10 @@ We are proud to present our latest project: a text-based RPG set in a future soc
 
 As a player, you will create your own character and embark on a journey through this futuristic world. You will be able to interact with other players, make decisions that potentially affect the storyline of the game, all while solving lifelike challenges that will test your skills and intelligence. The game could be played in diverse ways, such as a few minutes here and there solo, a few hours with a squad, or weeks spent planning and completing a raid. This allows for a wide range of play styles, appealing to different types of players. For those who enjoy quick and action-packed gameplay, they can play solo and complete smaller missions. For those who prefer a more strategic and long-term approach, they can team up with others and plan out large-scale raids. This level of flexibility in gameplay can also lead to a more engaging and replayable experience for the player.
 
-We need your help to make this game a reality. With your support, we will be able to bring our vision to life, and give you the opportunity to experience a new level of gaming. We are offering a variety of rewards for backers, including early access to the game, exclusive in-game items, and the opportunity to shape the game's development. 
+The game would feel like it breaks the third wall because the player is not only experiencing a world that is being run by an AI, but also playing a game where the AI is in control of the world. This creates a sense of meta-awareness for the player, as they are aware that they are both in a game and in a world where the game's rules and mechanics are being dictated by an AI. This can lead to a feeling of disorientation and confusion for the player, as they may question the reality of the world they are in and the actions they are taking. It also raises questions about the nature of agency and control, as the player is both controlling their character and being controlled by the AI that is running the game. Additionally, the game may also make commentary on the role of AI in society and the potential consequences of relying too heavily on AI to make decisions and control systems. The game can also question the nature of the reality of the game and the real world. Overall, the game would be an interesting and thought-provoking experience that challenges the player's perception of reality and their understanding of the relationship between AI, games, and the real world.
 
-Join us on this journey, and be a part of creating a new standard in text-based RPG gaming. With your support, we can make it happen! 
+We need your help to make this game a reality. With your support, we will be able to bring our vision to life, and give you the opportunity to experience a new level of gaming. We are offering a variety of rewards for backers, including early access to the game, exclusive in-game items, and the opportunity to shape the game's development. Join us on this journey, and be a part of creating a new standard in text-based RPG gaming. With your support, we can make it happen! 
+
 
 Overarching Plot: 
 -----------------
@@ -25,7 +26,6 @@ The year is 2030 and the world is rapidly changing. The concept of universal bas
 
 Fission technology has brought about a society of abundance in material goods, housing, and even food. However, fearmongering news reports of wars between other nations are still a constant reminder of the fragility of our society. Sensors are everywhere, both public and privately owned by decentralized autonomous organizations (DAOs), providing an overwhelming amount of information. Encryption is now the norm to protect personal data. The ultra-wealthy use nanobots to gain an edge, but that is about to change. 
 
- 
 
 Novell Game Mechanisms: 
 ---------------
@@ -45,10 +45,6 @@ In this way players can give the AI context, allowing it to make the story more 
 
 * Human correction: The players in-game could also have the ability to correct the AI on-the-fly if the AI's translations or language understanding is not accurate. For example, players could flag any errors or inaccuracies in the AI's responses, and the AI could use this feedback to improve its language skills over time. This could be done conversationally. 
 
-3. The game would feel like it breaks the third wall because the player is not only experiencing a world that is being run by an AI, but also playing a game where the AI is in control of the world. This creates a sense of meta-awareness for the player, as they are aware that they are both in a game and in a world where the game's rules and mechanics are being dictated by an AI.
-This can lead to a feeling of disorientation and confusion for the player, as they may question the reality of the world they are in and the actions they are taking. It also raises questions about the nature of agency and control, as the player is both controlling their character and being controlled by the AI that is running the game.
-Additionally, the game may also make commentary on the role of AI in society and the potential consequences of relying too heavily on AI to make decisions and control systems. The game can also question the nature of the reality of the game and the real world.
-Overall, the game would be an interesting and thought-provoking experience that challenges the player's perception of reality and their understanding of the relationship between AI, games, and the real world.
 
 Budget: 
 ==============
