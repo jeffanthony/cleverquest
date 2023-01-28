@@ -10,24 +10,15 @@
                 Character Sheet
             </title>
         </head>
-        <style>
-            h2 {
-        text-align: left;
-        float: left;
-      }
-      h2.right {
-        text-align: right;
-        float: right;
-      }
-        </style>
         <body>
+            <div style="display: flex;">
+                <h1 style="flex: 1;">Basic Information</h1>
+                <p style="flex: 1; text-align: right;">Dungeon Master</p>
+              </div>
             <h1 style="text-align: center;">Character Sheet</h1>
             <hr>
-            
             <h2>Basic Information</h2>
-            <h2 class="right">Dugeon Master</h2>
-            
-           <p>Na me: <input type="text" id="name" value=""></p>
+            <p>Name: <input type="text" id="name" value=""></p>
             <p>Class: <input type="text" id="class" value=""></p>
             <p>Level: <input type="number" id="level" value="1"></p>
             <h2>Abilities</h2>
